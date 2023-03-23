@@ -4,4 +4,5 @@ git checkout name   -- to change the branch you are working at to branch "name"
 
 git branch          -- to check all the branches
 
+git push            -- to send a new branch to a remoteg repository
 
